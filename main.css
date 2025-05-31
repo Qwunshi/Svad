@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Betmo";
+    src: url(Shrift/RecolorsPersonalUse.otf);
+}
+
+@font-face {
+    font-family: "Marck";
+    src: url(Shrift/MarckScript-Regular.ttf);
+}
+
+.fon{
+    background-image: url(fone.jp);
+}
+
+.text_glav{
+    text-align: center;
+    color: blue;
+    font-size: 45px;
+    font-family: "Betmo", sans-serif;
+}
+
+.name{
+    text-align: center;
+    color: blueviolet;
+    font-size: 80px;
+    font-family: "Marck", sans-serif;
+}
